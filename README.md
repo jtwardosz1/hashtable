@@ -1,1 +1,1 @@
-# hashtable
+This is a hash table I made for a course I took at MSU Denver last year. It is a hash table that can resize when it's capacity is exceeded. I wanted to commit this repository because it shows my use of a data structure (hash table/hash map) and also shows my use of unit tests in python. 
